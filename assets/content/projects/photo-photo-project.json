@@ -1,0 +1,11 @@
+{
+  "project_type": "photo",
+  "date": "2021-02-23T17:54:44.837Z",
+  "title": "Photo project",
+  "description": "a simple photo project",
+  "body": "*My beautiful photos...*",
+  "gallery": [
+    "/img/botanic-lights-2.jpeg",
+    "/img/botanic-lights.jpeg"
+  ]
+}
