@@ -4,5 +4,9 @@
   "title": "Story test",
   "description": "Short descriptive text",
   "body": "Longer **markdown**-*enabled* content text.",
-  "cover": "/img/screenshot-from-2021-02-23-11-49-54.png"
+  "cover": "/img/screenshot-from-2021-02-23-11-49-54.png",
+  "gallery": [
+    "/img/botanic-lights.jpeg",
+    "/img/screenshot-from-2021-02-23-11-49-54.png"
+  ]
 }
